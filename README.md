@@ -7,4 +7,5 @@ Up to this point in development this calculator only performs two basic operatio
 2) Subtracting **two non-floating point** numbers <br>
 subtraction is performed through two's compliment of addition <br>
 --> to be added multiplication and devision with a remainder
-*Note that all operation are **performed through addition** meanng multiplication will be repeated addition and division will be **repeated subtraction** that is **adding a negative number**_
+*Note that all operation are **performed through addition** meanng multiplication will be repeated addition and division will be **repeated subtraction** that is **adding a negative number**_ <br> <br>
+Attached is the all in one zip
