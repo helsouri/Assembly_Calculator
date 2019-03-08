@@ -1,5 +1,5 @@
 # Assembly_Calculator
-## Explanatio
+## Explanation
 A Simple assembly Calculator<br>
 This is a personal project where i wanted to work on a simple assembly calculator <br>
 This calculator is **simple** meaning it can only perform **non-floating point** procedures (integers only) <br>
